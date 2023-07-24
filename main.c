@@ -8,7 +8,7 @@
 *
 *
 *******************************************************************************
-* $ Copyright 2021 Cypress Semiconductor $
+* $ Copyright 2021-2023 Cypress Semiconductor $
 *******************************************************************************/
 
 #include "cyhal.h"
@@ -113,7 +113,7 @@ int main(void)
 * Function Name: InitializeWDT
 ********************************************************************************
 * Summary:
-* This function initializes the WDT block
+* This function initializes the WDT block.
 *
 * Parameters:
 *  void
